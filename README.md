@@ -1,2 +1,2 @@
 # hello-world
-It is a start
+This is the beginning of a new stage.
